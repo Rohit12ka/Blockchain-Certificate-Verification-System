@@ -1,0 +1,21 @@
+@import "tailwindcss";
+/* @tailwind "base";
+@tailwind "components";
+@tailwind "utilities"; */
+
+body{
+  font-family: "poppins",sans-serif;
+}
+h1,h2{
+  font-family: "Roboto",sans-serif;
+}
+@layer utilities{
+  .gradient{
+    background: linear-gradient(-45deg,#302b63,#00bf8f,#1cd8d2);
+  
+  }
+}
+/* 
+API key- 29227f58e8fb41b71e21
+API Secret- 9915fd6c578fde04fd0d512caa4d0e5a5f99ed5d65031f0e3d814775d613f336
+JWT- eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI1M2I5ZGM2OS1kNjM0LTQ1MWUtODEzZS01OGJjN2Q2NGRkYzkiLCJlbWFpbCI6InJvaGl0a3VtYXIyNzk2NUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGluX3BvbGljeSI6eyJyZWdpb25zIjpbeyJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MSwiaWQiOiJGUkExIn0seyJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MSwiaWQiOiJOWUMxIn1dLCJ2ZXJzaW9uIjoxfSwibWZhX2VuYWJsZWQiOmZhbHNlLCJzdGF0dXMiOiJBQ1RJVkUifSwiYXV0aGVudGljYXRpb25UeXBlIjoic2NvcGVkS2V5Iiwic2NvcGVkS2V5S2V5IjoiMjkyMjdmNThlOGZiNDFiNzFlMjEiLCJzY29wZWRLZXlTZWNyZXQiOiI5OTE1ZmQ2YzU3OGZkZTA0ZmQwZDUxMmNhYTRkMGU1YTVmOTllZDVkNjUwMzFmMGUzZDgxNDc3NWQ2MTNmMzM2IiwiZXhwIjoxNzk0MzIyNzUyfQ.wtkN9RUeRU8P-1dc2VlgfINtTnmBj6DEZW8F9DWneKI */
