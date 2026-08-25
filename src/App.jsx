@@ -352,7 +352,7 @@ export default function App() {
           <AdminDashboard/>
           <AffiliationForm />
           <Routes>
-            {/* Home pages */}
+            {/* Home pages  */}
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/skills" element={<Skills />} />
@@ -376,7 +376,7 @@ export default function App() {
              <h1>Gov Verification Demo</h1>
              <div style={{display:"grid", gridTemplateColumns:"1fr 1fr", gap:20}}>
              <div style={{border:"1px solid #ddd", padding:10}}> */}
-             {/* <OrgForm /> */}
+             <OrgForm />
              {/* </div>
              <div style={{border:"1px solid #ddd", padding:10}}> */}
              {/* <GovDashboard /> */}
