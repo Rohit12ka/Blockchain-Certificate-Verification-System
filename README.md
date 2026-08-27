@@ -587,7 +587,7 @@ npx hardhat test
 
 ## 👨‍💻 Contributors
 
-**Dev Yadav**
+**Rohit**
 
 B.Tech – Computer Science & Engineering (Artificial Intelligence)
 
@@ -615,7 +615,6 @@ Special thanks to the open-source technologies and platforms used in this projec
 * Node.js
 * Express.js
 * MongoDB
-
 ---
 
 ## 📌 Project Summary
