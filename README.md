@@ -168,7 +168,6 @@ INVALID ❌
 * Git
 * GitHub
 * Remix IDE
-* Postman
 
 ---
 
