@@ -1,5 +1,3 @@
-Bilkul. Main tumhare **Blockchain Based Certificate Verification System** project ke liye GitHub par directly use karne layak professional `README.md` bana deta hoon. Isme tumhare project ke **React + Tailwind, Node/Express, MongoDB, MetaMask, IPFS/Pinata, Ethereum/Hardhat** wale stack ko include kar raha hoon.
-
 # 🔐 Blockchain Based Certificate Verification System
 
 A decentralized certificate verification system that uses **Blockchain, IPFS, and Smart Contracts** to securely issue, store, and verify digital certificates. The system helps prevent certificate forgery and provides a transparent and tamper-resistant verification mechanism.
