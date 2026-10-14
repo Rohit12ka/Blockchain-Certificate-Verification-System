@@ -53,7 +53,7 @@ export default function App() {
             {/* Certificate Flow */}
             {/* <Route path="/OrgForm" element={<OrgForm />} /> */}
             {/* <Route path="/upload" element={<CertificateUploader />} /> */}
-            {/* <Route path="/verify" element={<CertificateVerifier />} /> */}
+            <Route path="/verify" element={<CertificateVerifier />} />
             <Route path="/flow" element={<VerificationFlowUI />} />
             </Routes>
             {/* <div style={{padding:20}}>
