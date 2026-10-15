@@ -32,7 +32,7 @@ export default function App() {
           {/* Global Components */}
           <Navbar />
           <Customcursor />
-          {/* <ParticlesBackground /> */}
+          <ParticlesBackground />
           <AdminDashboard/>
           <AffiliationForm />
           <Routes>
