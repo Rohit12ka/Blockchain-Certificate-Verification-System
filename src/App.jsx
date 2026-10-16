@@ -61,10 +61,10 @@ export default function App() {
              <div style={{display:"grid", gridTemplateColumns:"1fr 1fr", gap:20}}>
              <div style={{border:"1px solid #ddd", padding:10}}> */}
              <OrgForm />
-             {/* </div>
+             </div>
              <div style={{border:"1px solid #ddd", padding:10}}> */}
-             {/* <GovDashboard /> */}
-             {/* </div>
+             <GovDashboard /> 
+             </div>
             </div>
           </div> */}
         </div>
