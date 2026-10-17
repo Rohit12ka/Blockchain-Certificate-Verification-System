@@ -46,7 +46,7 @@ export default function App() {
             <Route path="/contact" element={<Contect />} />
             <Route path="/adminDashboard" element={<AdminDashboard />} />
             {/* Govt Flow */}
-            {/* <Route path="/request" element={<OrgRequest />} /> */}
+            <Route path="/request" element={<OrgRequest />} /> 
             {/* <Route path="/gov-verify" element={<AdminVerifyPage />} /> */}
             <Route path="/OrgForm" element={<OrgForm />} />
             <Route path="/studentPage" element={<StudentPage />} />
