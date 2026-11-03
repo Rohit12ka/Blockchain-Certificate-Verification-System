@@ -34,7 +34,7 @@ export default function App() {
           <Customcursor />
           <ParticlesBackground />
           <AdminDashboard/>
-          <AffiliationForm />
+          {/* <AffiliationForm /> */}
           <Routes>
             {/* Home pages  */}
             <Route path="/" element={<Home />} />
