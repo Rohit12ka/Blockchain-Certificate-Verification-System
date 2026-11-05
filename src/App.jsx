@@ -33,7 +33,7 @@ export default function App() {
           <Navbar />
           <Customcursor />
           <ParticlesBackground />
-          <AdminDashboard/>
+          {/* <AdminDashboard/> */}
           {/* <AffiliationForm /> */}
           <Routes>
             {/* Home pages  */}
