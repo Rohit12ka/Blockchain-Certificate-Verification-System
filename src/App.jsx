@@ -43,7 +43,7 @@ export default function App() {
             {/* <Route path="/projects" element={<Project />} /> */}
             {/* <Route path="/experience" element={<Experiences />} /> */}
             {/* <Route path="/testimonials" element={<Testimonials />} /> */}
-            <Route path="/contact" element={<Contect />} />
+            {/* <Route path="/contact" element={<Contect />} /> */}
             <Route path="/adminDashboard" element={<AdminDashboard />} />
             {/* Govt Flow */}
             {/* <Route path="/request" element={<OrgRequest />} />  */}
