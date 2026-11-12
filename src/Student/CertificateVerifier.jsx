@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import { ethers } from "ethers";
+// import { ethers } from "ethers";
 // import abi from "../abi/CertificateStorageABI.json";
 
-const CONTRACT_ADDRESS = "0xe4d3cDDa5aa66573799Ea38976DFa1C2AE4De8E5"; // same contract address
+// const CONTRACT_ADDRESS = "0xe4d3cDDa5aa66573799Ea38976DFa1C2AE4De8E5"; // same contract address
 
 const CertificateVerifier = () => {
   const [hash, setHash] = useState("");
