@@ -44,7 +44,7 @@ export default function App() {
             {/* <Route path="/experience" element={<Experiences />} /> */}
             {/* <Route path="/testimonials" element={<Testimonials />} /> */}
             {/* <Route path="/contact" element={<Contect />} /> */}
-            <Route path="/adminDashboard" element={<AdminDashboard />} />
+            {/* <Route path="/adminDashboard" element={<AdminDashboard />} /> */}
             {/* Govt Flow */}
             {/* <Route path="/request" element={<OrgRequest />} />  */}
             <Route path="/gov-verify" element={<AdminVerifyPage />} 
