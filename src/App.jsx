@@ -37,7 +37,7 @@ export default function App() {
           {/* <AffiliationForm /> */}
           <Routes>
             {/* Home pages  */}
-            <Route path="/" element={<Home />} />
+            {/* <Route path="/" element={<Home />} /> */}
             {/* <Route path="/about" element={<About />} /> */}
             {/* <Route path="/skills" element={<Skills />} /> */}
             {/* <Route path="/projects" element={<Project />} /> */}
